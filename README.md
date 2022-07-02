@@ -1,5 +1,7 @@
 使用3阶DG+3阶RK+WENO限制器求解二维Burgers方程
+
 u_t + (u^2/2)_x + (u^2/2)_y = 0
+
 另附MATLAB画图程序
 
 Reference:
